@@ -1,5 +1,3 @@
-# IERG3810 Mini Project: Tank Battle Game
-
 ## Overview
 
 This project is a simplified version of the classic Battle City game developed for the **IERG3810 course** at The Chinese University of Hong Kong. It runs on an **STM32F10x embedded microcontroller** with a **TFT LCD display** and joystick input interface. The game features player-controlled tanks engaging in combat with AI-controlled enemy tanks across multiple maps with destructible obstacles.
